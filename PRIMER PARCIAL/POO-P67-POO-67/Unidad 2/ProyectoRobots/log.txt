@@ -1,0 +1,121 @@
+[2025-11-24 22:31:30] RobotExplorador: Acción -> encender
+[2025-11-24 22:31:30] RobotExplorador: Acción -> mover adelante
+[2025-11-24 22:31:30] RobotExplorador: Acción -> mover izquierda
+[2025-11-24 22:31:30] RobotExplorador: Acción -> apagar
+[2025-11-24 22:31:30] RobotIndustrial: Acción -> encender
+[2025-11-24 22:31:30] RobotIndustrial: Acción -> mover derecha
+[2025-11-24 22:31:30] RobotIndustrial: Acción -> apagar
+[2025-11-24 22:34:05] RobotExplorador: Acción -> encender
+[2025-11-24 22:34:05] RobotExplorador: Acción -> mover adelante
+[2025-11-24 22:34:05] RobotExplorador: Acción -> mover izquierda
+[2025-11-24 22:34:05] RobotExplorador: Acción -> apagar
+[2025-11-24 22:34:05] RobotIndustrial: Acción -> encender
+[2025-11-24 22:34:05] RobotIndustrial: Acción -> mover derecha
+[2025-11-24 22:34:05] RobotIndustrial: Acción -> apagar
+[2025-11-24 22:37:40] RobotExplorador: Acción -> encender
+[2025-11-24 22:37:40] RobotExplorador: Acción -> mover adelante
+[2025-11-24 22:37:40] RobotExplorador: Acción -> mover izquierda
+[2025-11-24 22:37:40] RobotExplorador: Acción -> apagar
+[2025-11-24 22:37:40] RobotIndustrial: Acción -> encender
+[2025-11-24 22:37:40] RobotIndustrial: Acción -> mover derecha
+[2025-11-24 22:37:40] RobotIndustrial: Acción -> apagar
+[2025-11-25 01:58:18] RobotExplorador: Acción -> encender
+[2025-11-25 01:58:18] RobotExplorador: Acción -> mover adelante
+[2025-11-25 01:58:18] RobotExplorador: Acción -> mover izquierda
+[2025-11-25 01:58:18] RobotExplorador: Acción -> apagar
+[2025-11-25 01:58:18] RobotIndustrial: Acción -> encender
+[2025-11-25 01:58:18] RobotIndustrial: Acción -> mover derecha
+[2025-11-25 01:58:18] RobotIndustrial: Acción -> apagar
+[2025-11-25 01:59:09] RobotExplorador: Acción -> encender
+[2025-11-25 01:59:09] RobotExplorador: Acción -> mover adelante
+[2025-11-25 01:59:09] RobotExplorador: Acción -> mover izquierda
+[2025-11-25 01:59:09] RobotExplorador: Acción -> apagar
+[2025-11-25 01:59:09] RobotIndustrial: Acción -> encender
+[2025-11-25 01:59:09] RobotIndustrial: Acción -> mover derecha
+[2025-11-25 01:59:09] RobotIndustrial: Acción -> apagar
+[2025-11-25 02:02:07] RobotExplorador: Acción -> encender
+[2025-11-25 02:02:07] RobotExplorador: Acción -> mover adelante
+[2025-11-25 02:02:07] RobotExplorador: Acción -> mover izquierda
+[2025-11-25 02:02:07] RobotExplorador: Acción -> apagar
+[2025-11-25 02:02:07] RobotIndustrial: Acción -> encender
+[2025-11-25 02:02:07] RobotIndustrial: Acción -> mover derecha
+[2025-11-25 02:02:07] RobotIndustrial: Acción -> apagar
+[2025-11-25 02:13:41] RobotExplorador: Acción -> encender
+[2025-11-25 02:13:41] RobotExplorador: Acción -> mover adelante
+[2025-11-25 02:13:41] RobotExplorador: Acción -> mover izquierda
+[2025-11-25 02:13:41] RobotExplorador: Acción -> apagar
+[2025-11-25 02:13:41] RobotIndustrial: Acción -> encender
+[2025-11-25 02:13:41] RobotIndustrial: Acción -> mover derecha
+[2025-11-25 02:13:41] RobotIndustrial: Acción -> apagar
+[2025-11-25 07:23:02] RobotExplorador: Acción -> encender
+[2025-11-25 07:23:02] RobotExplorador: Acción -> mover adelante
+[2025-11-25 07:23:02] RobotExplorador: Acción -> mover izquierda
+[2025-11-25 07:23:02] RobotExplorador: Acción -> mover derecha
+[2025-11-25 07:23:02] RobotExplorador: Acción -> apagar
+[2025-11-25 07:23:02] RobotIndustrial: Acción -> encender
+[2025-11-25 07:23:02] RobotIndustrial: Acción -> mover derecha
+[2025-11-25 07:23:02] RobotIndustrial: Acción -> apagar
+[2025-12-04 23:18:25] RobotExplorador: Acción -> encender
+[2025-12-04 23:18:25] RobotExplorador: Acción -> mover adelante
+[2025-12-04 23:18:25] RobotExplorador: Acción -> mover izquierda
+[2025-12-04 23:18:25] RobotExplorador: Acción -> mover derecha
+[2025-12-04 23:18:25] RobotExplorador: Acción -> apagar
+[2025-12-04 23:18:25] RobotIndustrial: Acción -> encender
+[2025-12-04 23:18:25] RobotIndustrial: Acción -> mover derecha
+[2025-12-04 23:18:25] RobotIndustrial: Acción -> apagar
+[2025-12-07 14:51:34] RobotExplorador: Acción -> encender
+[2025-12-07 14:51:34] RobotExplorador: Acción -> mover adelante
+[2025-12-07 14:51:34] RobotExplorador: Acción -> mover izquierda
+[2025-12-07 14:51:34] RobotExplorador: Acción -> mover derecha
+[2025-12-07 14:51:34] RobotExplorador: Acción -> apagar
+[2025-12-07 14:51:34] RobotIndustrial: Acción -> encender
+[2025-12-07 14:51:34] RobotIndustrial: Acción -> mover derecha
+[2025-12-07 14:51:34] RobotIndustrial: Acción -> apagar
+[2025-12-07 19:38:01] RobotExplorador: Acción -> encender
+[2025-12-07 19:38:01] RobotExplorador: Acción -> mover adelante
+[2025-12-07 19:38:01] RobotExplorador: Acción -> mover izquierda
+[2025-12-07 19:38:01] RobotExplorador: Acción -> mover derecha
+[2025-12-07 19:38:01] RobotExplorador: Acción -> apagar
+[2025-12-07 19:38:01] RobotIndustrial: Acción -> encender
+[2025-12-07 19:38:01] RobotIndustrial: Acción -> mover derecha
+[2025-12-07 19:38:01] RobotIndustrial: Acción -> apagar
+[2025-12-07 19:41:41] RobotExplorador: Acción -> encender
+[2025-12-07 19:41:41] RobotExplorador: Acción -> mover adelante
+[2025-12-07 19:41:41] RobotExplorador: Acción -> mover izquierda
+[2025-12-07 19:41:41] RobotExplorador: Acción -> mover derecha
+[2025-12-07 19:41:41] RobotExplorador: Acción -> apagar
+[2025-12-07 19:41:41] RobotIndustrial: Acción -> encender
+[2025-12-07 19:41:41] RobotIndustrial: Acción -> mover derecha
+[2025-12-07 19:41:41] RobotIndustrial: Acción -> apagar
+[2025-12-07 19:41:50] RobotExplorador: Acción -> encender
+[2025-12-07 19:41:50] RobotExplorador: Acción -> mover adelante
+[2025-12-07 19:41:50] RobotExplorador: Acción -> mover izquierda
+[2025-12-07 19:41:50] RobotExplorador: Acción -> mover derecha
+[2025-12-07 19:41:50] RobotExplorador: Acción -> apagar
+[2025-12-07 19:41:50] RobotIndustrial: Acción -> encender
+[2025-12-07 19:41:50] RobotIndustrial: Acción -> mover derecha
+[2025-12-07 19:41:50] RobotIndustrial: Acción -> apagar
+[2025-12-07 19:42:03] RobotExplorador: Acción -> encender
+[2025-12-07 19:42:03] RobotExplorador: Acción -> mover adelante
+[2025-12-07 19:42:03] RobotExplorador: Acción -> mover izquierda
+[2025-12-07 19:42:03] RobotExplorador: Acción -> mover derecha
+[2025-12-07 19:42:03] RobotExplorador: Acción -> apagar
+[2025-12-07 19:42:03] RobotIndustrial: Acción -> encender
+[2025-12-07 19:42:03] RobotIndustrial: Acción -> mover derecha
+[2025-12-07 19:42:03] RobotIndustrial: Acción -> apagar
+[2025-12-07 19:42:12] RobotExplorador: Acción -> encender
+[2025-12-07 19:42:12] RobotExplorador: Acción -> mover adelante
+[2025-12-07 19:42:12] RobotExplorador: Acción -> mover izquierda
+[2025-12-07 19:42:12] RobotExplorador: Acción -> mover derecha
+[2025-12-07 19:42:12] RobotExplorador: Acción -> apagar
+[2025-12-07 19:42:12] RobotIndustrial: Acción -> encender
+[2025-12-07 19:42:12] RobotIndustrial: Acción -> mover derecha
+[2025-12-07 19:42:12] RobotIndustrial: Acción -> apagar
+[2025-12-07 19:42:22] RobotExplorador: Acción -> encender
+[2025-12-07 19:42:22] RobotExplorador: Acción -> mover adelante
+[2025-12-07 19:42:22] RobotExplorador: Acción -> mover izquierda
+[2025-12-07 19:42:22] RobotExplorador: Acción -> mover derecha
+[2025-12-07 19:42:22] RobotExplorador: Acción -> apagar
+[2025-12-07 19:42:22] RobotIndustrial: Acción -> encender
+[2025-12-07 19:42:22] RobotIndustrial: Acción -> mover derecha
+[2025-12-07 19:42:22] RobotIndustrial: Acción -> apagar
